@@ -1,0 +1,21 @@
+.linkkkkk:hover{
+    color: red;
+    background-color: tan;
+}
+
+.ballon-back{
+    background-color: antiquewhite;
+    width: 100px;
+    height: 220px;
+    
+}
+.ballon{
+    width: 60px;
+    height: 60px;
+    padding-top: 160px;
+    transition: transform 1s linear;
+}
+
+.move{
+    transform: translateY(-160px);
+}
